@@ -29,8 +29,6 @@
 
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=xeyronoxz&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xeyronoxz&layout=compact&theme=tokyonight&hide_border=true)
-
 ![Visitors](https://komarev.com/ghpvc/?username=xeyronoxz&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
 ---
 
