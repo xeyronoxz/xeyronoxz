@@ -18,7 +18,7 @@
 
 ### 🚀 Roadmap to Startup
 - [x] Account Migration & Secure Environment Setup
-- [ ] Build high-performance networking crate (Rust)
+- [x] Build high-performance networking crate [Rust](https://github.com/xeyronoxz/rust-high-performance-networking)
 - [ ] Develop automated security auditing framework (Python)
 - [ ] **Launch Startup MVP**
 
